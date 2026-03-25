@@ -15,7 +15,7 @@
 
 - Email: `tngus8797@naver.com`
 - Blog: [Notion Tech Notes](https://www.notion.so/2a305b289c1f80939f52e58b7769621a)
-- GitHub: [@sabre0527](https://github.com/sabre0527)
+- GitHub: [@sabrenyaa](https://github.com/sabrenyaa)
 
 ## Skills
 
