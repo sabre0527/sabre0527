@@ -35,7 +35,7 @@
 
 ## Experience
 
-### F&J | Education Planning / SW Education Researcher
+### 에프엔제이 | Education Planning / SW Education Researcher
 `2024.09 - 2025.07`
 
 - SW 교육 입찰 제안, 교육 기획, 교안 PPT 작성, 교육 운영, 평가 설계를 수행했습니다.
