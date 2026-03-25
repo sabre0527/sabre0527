@@ -13,7 +13,7 @@
 
 ## Contact
 
-- Email: `tngus8797@naver.com`
+- Email: `tngus8797@gmail.com`
 - Blog: [Notion Tech Notes](https://www.notion.so/2a305b289c1f80939f52e58b7769621a)
 - GitHub: [@sabrenyaa](https://github.com/sabrenyaa)
 
